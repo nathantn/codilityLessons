@@ -1,3 +1,4 @@
+// https://codility.com/programmers/lessons/4-counting_elements/missing_integer/
 function solution(A) {
     let minimalPositiveInteger = 1;
 
